@@ -25,7 +25,6 @@
 		E9E33B182BB7D54900B6A3B0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9E33B172BB7D54900B6A3B0 /* ContentView.swift */; };
 		E9E33B1A2BB7D54A00B6A3B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9E33B192BB7D54A00B6A3B0 /* Assets.xcassets */; };
 		E9E33B1D2BB7D54A00B6A3B0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9E33B1C2BB7D54A00B6A3B0 /* Preview Assets.xcassets */; };
-		E9E33B242BB7D58200B6A3B0 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E9E33B232BB7D58200B6A3B0 /* GoogleService-Info.plist */; };
 		E9E33B272BB7D64000B6A3B0 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = E9E33B262BB7D64000B6A3B0 /* FirebaseAuth */; };
 		E9E33B292BB7D64000B6A3B0 /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = E9E33B282BB7D64000B6A3B0 /* FirebaseDatabase */; };
 		E9E33B2B2BB7D64000B6A3B0 /* FirebaseDatabaseSwift in Frameworks */ = {isa = PBXBuildFile; productRef = E9E33B2A2BB7D64000B6A3B0 /* FirebaseDatabaseSwift */; };
@@ -55,7 +54,6 @@
 		E9E33B172BB7D54900B6A3B0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E9E33B192BB7D54A00B6A3B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9E33B1C2BB7D54A00B6A3B0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		E9E33B232BB7D58200B6A3B0 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		E9E33B362BB7D70600B6A3B0 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -170,7 +168,6 @@
 				E98231902BB8A01600B01F35 /* Extensions */,
 				E9E33B152BB7D54900B6A3B0 /* SocialMediaAppApp.swift */,
 				E9E33B192BB7D54A00B6A3B0 /* Assets.xcassets */,
-				E9E33B232BB7D58200B6A3B0 /* GoogleService-Info.plist */,
 				E9E33B1B2BB7D54A00B6A3B0 /* Preview Content */,
 			);
 			path = SocialMediaApp;
@@ -258,7 +255,6 @@
 			files = (
 				E9E33B1D2BB7D54A00B6A3B0 /* Preview Assets.xcassets in Resources */,
 				E9E33B1A2BB7D54A00B6A3B0 /* Assets.xcassets in Resources */,
-				E9E33B242BB7D58200B6A3B0 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
